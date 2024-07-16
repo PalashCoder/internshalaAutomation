@@ -1,0 +1,25 @@
+{
+  "name": "internshalaautomation",
+  "version": "1.0.0",
+  "description": "The Internshala Application Automation by Palash.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PalashCoder/internshalaAutomation.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Internshala",
+    "Automation",
+    "PalashCoder"
+  ],
+  "author": "Palash Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PalashCoder/internshalaAutomation/issues"
+  },
+  "homepage": "https://github.com/PalashCoder/internshalaAutomation#readme"
+}
