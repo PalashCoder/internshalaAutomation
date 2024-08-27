@@ -14,9 +14,9 @@ app.post("/apply", async (req, res) => {
     Stream: "CSE AIML",
     Percentage: "91",
     Training: "Data Structures and Algorithms, Web Development",
-    Organization: "Call For Referral",
+    Organization: "xyz",
     description:
-      "Call For Referral is an early stage startup where I have done 3months of frontend internship in Nextjs and have learned a lot of things about web developement..",
+      "xyz is an early stage startup where I have done 3months of frontend internship in Nextjs and have learned a lot of things about web developement..",
     link: "https://github.com/PalashCoder",
     hiringReason:
       "Over the past few years, I have acquired relevant skills and experience, which I shall bring to your organization. I have also worked tirelessly on my communication abilities and teamwork skills, which I will put to use in my future career, which would be in your organization if I am selected for the position.",

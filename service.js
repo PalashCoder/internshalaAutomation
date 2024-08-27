@@ -31,7 +31,7 @@ async function main(data, id, pass) {
   });
   await tab.goto("https://internshala.com" + app_urls[3]);
 
-  /* await tab.click("#education");
+  await tab.click("#education");
   await tab.waitForSelector("#graduation-tab .ic-16-plus", { visible: true });
   await tab.click("#graduation-tab .ic-16-plus");
   // console.log(tab + "<>" + data);
@@ -66,7 +66,7 @@ async function main(data, id, pass) {
 
   await tab.waitForSelector("#save_work_samples", { visible: true });
   await tab.click("#save_work_samples");
-*/
+
   await new Promise(function (resolve) {
     setTimeout(resolve, 1000);
   });
